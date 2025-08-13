@@ -16,6 +16,8 @@ Tenho paixão por **tecnologia**, especialmente quando ela pode ser aplicada par
 - **Saúde**
 - **Acessibilidade**
 - **Sustentabilidade**
+- **Programação**
+- **Tecnologia**
 
 ## Curiosidades:
 - Sou entusiasta do **Linux**.
