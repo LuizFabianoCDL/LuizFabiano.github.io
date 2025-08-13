@@ -28,5 +28,5 @@ Tenho paixão por **tecnologia**, especialmente quando ela pode ser aplicada par
 - [E-mail](mailto:fabianolfc0325@gmail.com)
 
 - ## Meus Projetos
-Estou atualmente desenvolvendo projetos focados em **acessibilidade** e **sustentabilidade**. Em breve, vou adicionar os links para esses repositórios aqui. 
+Estou atualmente desenvolvendo projetos focados em **acessibilidade**, **sustentabilidade**, **tecnologia** e **programação**. Em breve, vou adicionar os links para esses repositórios aqui. 
 
