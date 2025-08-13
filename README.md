@@ -25,7 +25,7 @@ Tenho paixão por **tecnologia**, especialmente quando ela pode ser aplicada par
 ## Conecte-se comigo:
 - [LinkedIn](https://www.linkedin.com/in/luizfabianoclima)
 - [Reddit](https://reddit.com/user/LuizFabianoCDL)
-- 📧 [E-mail](mailto:fabianolfc0325@gmail.com)
+- [E-mail](mailto:fabianolfc0325@gmail.com)
 
 - ## Meus Projetos
 Estou atualmente desenvolvendo projetos focados em **acessibilidade** e **sustentabilidade**. Em breve, vou adicionar os links para esses repositórios aqui. 
